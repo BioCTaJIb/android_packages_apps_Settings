@@ -29,6 +29,12 @@
       <item quantity="many">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шагов.</item>
       <item quantity="other">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шага.</item>
     </plurals>
+    <string name="increasing_ring_min_volume_title">Начало звонка</string>
+    <string name="increasing_ring_ramp_up_time_title">Время увеличения</string>
+    <string name="increasing_ring_volume_option_title">Постепенное увеличение громкости звонка</string>
+    <string name="volume_link_notification_title">Связать громкость звонка и уведомления</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Включить экран при подключении или отключении источника питания</string>
+    <string name="wake_when_plugged_or_unplugged_title">Включить экран</string>
     <string name="show_dev_on" msgid="2840850085134853754">"Вы стали разработчиком!"</string>
     <string name="show_dev_already" msgid="7041756429707644630">"Не нужно, вы уже разработчик."</string>
     <string name="dev_settings_disabled_warning" msgid="6971867026249671244">"Сначала включите параметры для разработчиков."</string>
